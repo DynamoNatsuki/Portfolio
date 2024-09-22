@@ -2,7 +2,7 @@
     <h1>Recipe list API</h1>
 
     <p>
-        Create a web API that can be used to create, view, edit, and delete recipes. Each recipe has a title (max 100 characters) and instructions (up to 5000 characters).
+        I created a web API that can be used to create, view, edit, and delete recipes. Each recipe has a title (max 100 characters) and instructions (up to 5000 characters).
     </p>
 
     <div class="code">

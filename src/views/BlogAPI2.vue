@@ -1,16 +1,17 @@
 <template>
     <h1>API for blog</h1>
-
-    <p>
-        A project where, I built a Blog API. The API contains CRUD operations (Create, Read, Update, and Delete), 
+    <div>
+        <p>
+        A project where, I built a Blog API. This project is part of the larger project named "Blog frontend & backend". The API contains CRUD operations (Create, Read, Update, and Delete), 
         i.e. Get, Post, Put, and Delete, for blog posts. Each post have the following properties:    
-    </p>
-    <ul>
-        <li>Id (int)</li>
-        <li>Title (string)</li>
-        <li>Content (string)</li>
-        <li>Date (DateTime)</li>
-    </ul>
+        </p>
+        <ul>
+            <li>Id (int)</li>
+            <li>Title (string)</li>
+            <li>Content (string)</li>
+            <li>Date (DateTime)</li>
+        </ul>
+    </div>
 
     <div class="code">
         <h2>Project code</h2>
@@ -37,6 +38,7 @@ img {
     width: fit-content;
     height: fit-content;
     padding: 20px;
+    border-radius: 10%;
 }
 li {
     list-style-type: none;

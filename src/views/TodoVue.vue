@@ -2,9 +2,9 @@
     <h1>Todo list with Vue JS</h1>
 
     <p>
-        Use Vue JS to build a todo list (to-do list). On the homepage, all tasks (Todos) should be listed and the visitor should be able to add tasks 
+        I used Vue JS to build a todo list (to-do list). On the homepage, all tasks (Todos) are listed and the visitor are able to add tasks 
         with an input field and a button. Each task should have a title and can be marked as completed or deleted. Completed tasks are still displayed, 
-        but there should be a clear distinction between completed tasks and tasks (e.g. through different colored text). Deleted tasks disappear completely 
+        but there is a clear distinction between completed tasks and tasks (e.g. through different colored text). Deleted tasks disappear completely 
         and does not appear anywhere.
     </p>
     

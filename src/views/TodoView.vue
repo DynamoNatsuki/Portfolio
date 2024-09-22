@@ -2,8 +2,8 @@
     <h1>Todo frontend & backend</h1>
 
     <p>
-        Create a new API to retrieve, create, edit and delete tasks in a todo list. Each task should have a title, date, and be marked as done/not done. 
-        Then, build a front-end application with Vue JS that you connect to your API so that users can view, create, edit, and delete tasks through the application.
+        I created a new API to retrieve, create, edit and delete tasks in a todo list. Each task have a title, date, and be marked as done/not done. 
+        I also built a front-end application with Vue JS that I connected to my API so that users can view, create, edit, and delete tasks through the application.
     </p>
 
     <div class="code">

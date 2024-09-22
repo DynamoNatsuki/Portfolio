@@ -2,7 +2,7 @@
     <h1>Blog platform API</h1>
 
     <p>
-        Created a web API that can be used to create, view, edit, and delete blog posts. Each blog post has a title (max 100 characters), a summary (max 150 characters), 
+        I created a web API that can be used to create, view, edit, and delete blog posts. Each blog post has a title (max 100 characters), a summary (max 150 characters), 
         and main content (up to 5000 characters).
     </p>
 
@@ -31,5 +31,6 @@ img {
     width: fit-content;
     height: fit-content;
     padding: 20px;
+    border-radius: 10%;
 }
 </style>

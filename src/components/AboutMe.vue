@@ -2,27 +2,35 @@
     <h2>Pethra Axelsson</h2>
 
     <div class="aboutme">
-        <h3>About me</h3>
-        <p>I am a full-stack developer based in Gothenburg, Sweden. I like being in the stable, training and competing with my horse, playing the drums, playing rpgs and board games with my friends, watching anime, working with 
-        improving working processes, automation, and coding.</p>
+        <img src="/egenbild.jpg" alt="egen bild">
+        <div>
+            <h3>About me</h3>
+            <p>I am a full-stack developer based in Gothenburg, Sweden. I like being in the stable, training and competing with my horse, playing the drums, playing rpgs and board games with my friends, watching anime, working with 
+            improving working processes, automation, and coding.</p>
+        </div>
     </div>
 
     <div class="skills">
         <h3>Skills</h3>
-        <p>I have worked with the following programs and coding languages:</p>
+        <p><em>I have worked with the following programs and coding languages:</em></p>
         
-        <ul>
-            <li>MVC</li>
-            <li>SQL Server</li>
-            <li>API</li>
-            <li>Visual Studio</li>
-            <li>Visual Studio Code</li>
-            <li>Vue JS</li>
-            <li>C#</li>
-            <li>Javascript</li>
-            <li>CSS</li>
-            <li>HTML</li>
-        </ul>
+        <div class="skilllist">
+            <ul>
+                <li>MVC</li>
+                <li>SQL Server</li>
+                <li>API</li>
+                <li>Visual Studio</li>
+                <li>Visual Studio Code</li>
+                <li>Node JS</li>
+                <li>Express</li>
+                <li>Handlebars</li>
+                <li>Vue JS</li>
+                <li>C#</li>
+                <li>Javascript</li>
+                <li>CSS</li>
+                <li>HTML</li>
+            </ul>
+        </div>
     </div>
     
     <div class="projects">
@@ -52,20 +60,19 @@
     </div>
 
     <div class="contact">
-        <h3 Contact details></h3>
-        <p>LinkedIn</p>
+        <h1>Contact details</h1>
+        <p><a href="https://se.linkedin.com/in/pethra-axelsson-3735b028/sv">LinkedIn</a></p>
     </div>
-    
-
-    <h4>References</h4>
-    <p><a href="https://www.codeturkie.io/">CodeTurkie</a></p>
-    <p><a href="https://aw.club/global/en/blog/programmer-portfolio">Programmer portfolio</a></p>
 </template>
 
 <style scoped>
 .aboutme {
     margin: 10px;
     text-align: center;
+    display: flex;
+    flex-direction: row;
+    padding-left: 300px;
+    padding-right: 300px;
 }
 
 .skills {
@@ -81,5 +88,16 @@
 li {
     list-style-type: none;
     padding: 5px;
+}
+
+img {
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 10%;
+}
+
+.contact{
+    padding: 50px
 }
 </style>

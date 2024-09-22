@@ -2,7 +2,7 @@
     <h1>Restaurant page with Vue JS</h1>
 
     <p>
-        Use Vue JS to build a restaurant page. Use custom content or Lorem Ipsum text (https://www.lipsum.com/) to build the following subpages:  
+        I used Vue JS to build a restaurant page. I used custom content to build the following subpages:  
     </p>
     <ul>
         <li>Home (Restaurant name and some short text about the restaurant)</li>

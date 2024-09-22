@@ -2,8 +2,8 @@
     <h1>Recipe list in MVC</h1>
 
     <p>
-        Create a new web project in Visual Studio of type MVC (Model-View-Controller) and build a page with different recipes. 
-        The recipes should be displayed in a list with summary and image on the home page and each recipe should be viewable on its own subpage by 
+        I created a new web project in Visual Studio of type MVC (Model-View-Controller) and build a page with different recipes. 
+        The recipes are displayed in a list with summary and image on the home page and each recipe is viewable on its own subpage by 
         the visitor clicking on the recipe in the list on the home page.
     </p>
 

@@ -2,8 +2,10 @@
     <h1>Blog platform SQL</h1>
 
     <p>
-        Created a new web project in Visual Studio of type MVC (Model-View-Controller) and build a page where visitors can create and view blog posts. 
-        The home page should display all created blog posts. A post contains a title (max 50 characters), a summary (max 150 characters), and content (max 5000 characters). Each post should be clickable to view the full post. On a separate subpage, a form should be displayed that visitors can use to create their own posts that saved in the database.
+        I created a new web project in Visual Studio of type MVC (Model-View-Controller) and built a page where visitors can create and view blog posts. 
+        The home page displays all created blog posts. A post contains a title (max 50 characters), a summary (max 150 characters), and content (max 5000 characters). 
+        Each post is clickable to view the full post. On a separate subpage, a form is displayed that visitors can use to create their own posts that saved in the 
+        database.
     </p>
 
     <div class="code">
@@ -32,5 +34,6 @@ img {
     width: fit-content;
     height: fit-content;
     padding: 20px;
+    border-radius: 10%;
 }
 </style>

@@ -2,10 +2,10 @@
     <h1>Training diary with SQL</h1>
 
     <p>
-        Create a new web project in Visual Studio of type MVC (Model-View-Controller) and build a page where visitors can create and view training data. 
-        On the home page, saved training sessions should be displayed. A workout contains exercise (max 50 characters), sets (number between 1-100), 
-        reps (number between 1-100) and weight (number between 1-500). Each exercise should be clickable to edit or delete. On a separate subpage, a form 
-        should be displayed that visitors can use to create their own training sessions that are saved in the database.
+        I created a web project in Visual Studio of type MVC (Model-View-Controller) and built a page where visitors can create and view training data. 
+        On the home page, saved training sessions are displayed. A workout contains exercise (max 50 characters), sets (number between 1-100), 
+        reps (number between 1-100) and weight (number between 1-500). Each exercise are clickable to edit or delete. On a separate subpage, a form 
+        are displayed that visitors can use to create their own training sessions that are saved in the database.
     </p>
 
     <div class="code">

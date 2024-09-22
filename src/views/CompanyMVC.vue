@@ -2,9 +2,8 @@
     <h1>API for blog</h1>
 
     <p>
-        Create a new web project in Visual Studio of type MVC (Model-View-Controller) and build a simple company page. You can either invent a company, or 
-        choose an existing company page and try to clone it. clone it. If you build a page for an invented company, you can add the following subpages and 
-        fill with Lorem Ipsum text (https://www.lipsum.com/):  
+        I created a new web project in Visual Studio of type MVC (Model-View-Controller) and built a simple company page. I added the following subpages and 
+        filled with Lorem Ipsum text:  
     </p>
     <ul>
         <li>Home page (simple information about the company)</li>

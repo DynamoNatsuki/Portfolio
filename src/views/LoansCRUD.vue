@@ -2,8 +2,8 @@
     <h1>CRUD for loans</h1>
 
     <p>
-        Build on the same project as in the course and add a model and controller for Loans. A loan has the following properties:
-        Add CRUD (Create, Read, Update & Delete) operations, i.e. Get, Post, Put, and Delete, for Loans in the same way as we did for Books.
+        I continued building on a library project as in the course and added a model and controller for loans of books. I added CRUD (Create, Read, Update & Delete) operations, 
+        i.e. Get, Post, Put, and Delete, for Loans of books. The project has the following properties: 
     </p>
 
     <ul>

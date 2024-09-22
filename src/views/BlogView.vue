@@ -2,18 +2,18 @@
     <h1>Blog fronend & backend</h1>
 
     <p>
-        Use Vue JS to build a web application that you connect to the API you built in the previous task. In the web application, you should be able to retrieve all blog posts, 
+        I built a web application using Vue JS that I connected to the API in the project "API for Blogs". In the web application, you are able to retrieve all blog posts, 
         view them separately by clicking on them, create new posts, edit posts, and delete posts.
     </p>
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="" alt="">
+        <img src="/blogAPIvuecode.JPG" alt="Blog API Vue code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="" alt="">
+        <img src="/blogAPIvue.JPG" alt="Blog API Vue page">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/BlogAPIVue"><strong>GitHub Repo for the Vue project</strong></a></p>

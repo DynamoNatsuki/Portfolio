@@ -2,9 +2,9 @@
     <h1>Recipe list in SQL</h1>
 
     <p>
-        Created a new web project in Visual Studio of type MVC (Model-View-Controller) and built a page with different recipes. All recipes should be stored in, 
-        and retrieved from, a SQL database this time. The recipes should be displayed in a list with summary and image on the home page and each recipe should be 
-        displayed on its own sub-page by the visitor clicking on the recipe in the list on the home page.
+        I created a new web project in Visual Studio of type MVC (Model-View-Controller) and built a page with different recipes. All recipes are stored in, 
+        and retrieved from, a SQL database. The recipes are displayed in a list with summary and image on the home page and each recipe is displayed on its own 
+        sub-page by the visitor clicking on the recipe in the list on the home page.
     </p>
 
     <div class="code">

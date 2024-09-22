@@ -2,8 +2,8 @@
     <h1>Exercise Diary</h1>
 
     <p>
-        Create a training diary page using MVC. Users should be able to add exercises (e.g. deadlift or running) and exercise sessions. For each exercise, the user should be 
-        able to add the exercise name and description. For each exercise session, the user should be able to add a date, select an exercise and write how much they lifted or ran. 
+        I created a training diary page using MVC. The users are able to add exercises (e.g. deadlift or running) and exercise sessions. For each exercise, the user is
+        able to add the exercise name and description. For each exercise session, the user is able to add a date, select an exercise and write how much they lifted or ran. 
         (e.g. 2022-08-12, running, 5km).
     </p>
 

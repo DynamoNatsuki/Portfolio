@@ -2,7 +2,7 @@
     <h1>Recipe list with handlebars</h1>
 
     <p>
-        Create a web page with with Node JS, Express and Handlebars that can be used to create, view, edit, and delete recipes. 
+        I created a web page with with Node JS, Express and Handlebars that can be used to create, view, edit, and delete recipes. 
         Each recipe has a title (max 100 characters) and instructions (up to 5000 characters).
     </p>
 

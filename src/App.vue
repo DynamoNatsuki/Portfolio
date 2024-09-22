@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link>
+    <router-link to="/"><strong></strong></router-link>
     <!-- <router-link to="/about">About</router-link> -->
   </nav>
   <router-view/>
@@ -30,20 +30,16 @@ html, body {
 }
 
 a {
-  color: #0b633b;
+  color: #01301b;
 }
 
 button {
   background-color: transparent; /* Makes the background invisible */
-  color: rgb(47, 48, 87); /* Text color */
+  color: rgb(5, 6, 56); /* Text color */
   border: none;
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
-}
-
-button.hover {
-  background-color: rgba(255, 255, 255, 0.2); /* Optional: Adds a light hover effect */
 }
 
 button:focus {

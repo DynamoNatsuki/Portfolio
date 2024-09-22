@@ -2,11 +2,10 @@
     <h1>Webshop with Vue JS</h1>
 
     <p>
-        Use Vue JS to build an online store. On the homepage, products should be displayed with image, name, and price. Each product should be clickable to 
-        show more information about the product. On the product pages, the visitor should be able to click on a Buy button that takes the visitor to a form 
-        where the product is displayed and where the visitor can complete the purchase by filling in payment details. The Buy function does not need to be 
-        fully functional and no money needs to be deducted. You only need to build a form that looks like it works, but it doesn't need to be linked to a real 
-        payment provider or bank.
+        I used Vue JS to build an online store. On the homepage, products are displayed with image, name, and price. Each product is clickable to 
+        show more information about the product. On the product pages, the visitor is able to click on a Buy button that takes the visitor to a form 
+        where the product is displayed and where the visitor can complete the purchase by filling in payment details. The Buy function does not function 
+        and no money can be deducted for the purpose of this project. 
     </p>
 
     <div class="code">
