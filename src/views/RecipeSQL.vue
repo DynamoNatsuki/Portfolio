@@ -2,20 +2,22 @@
     <h1>Recipe list in SQL</h1>
 
     <p>
-        Create a new web project in Visual Studio of type MVC (Model-View-Controller) and build a page with different recipes. Unlike the previous task, 
-        all recipes should be stored in, and retrieved from, a SQL database this time. The recipes should be displayed in a list with summary and image on the 
-        home page and each recipe should be displayed on its own sub-page by the visitor clicking on the recipe in the list on the home page.
+        Created a new web project in Visual Studio of type MVC (Model-View-Controller) and built a page with different recipes. All recipes should be stored in, 
+        and retrieved from, a SQL database this time. The recipes should be displayed in a list with summary and image on the home page and each recipe should be 
+        displayed on its own sub-page by the visitor clicking on the recipe in the list on the home page.
     </p>
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="" alt="">
+        <img src="/recipeSQLcode.JPG" alt="Recipe SQL code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="" alt="">
+        <img src="/recipeSQL.JPG" alt="Recipe page">
     </div>
+
+    <p><a href="https://github.com/DynamoNatsuki/RecipeApplicationSQL"><strong>GitHub Repo</strong></a></p>
 
     <router-link :to="'/'"><button><strong>Back to homepage</strong></button></router-link>
 </template>
@@ -30,5 +32,6 @@ img {
     width: fit-content;
     height: fit-content;
     padding: 20px;
+    border-radius: 10%;
 }
 </style>

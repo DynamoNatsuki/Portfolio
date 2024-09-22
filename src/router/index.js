@@ -2,7 +2,6 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import AboutView from '@/views/AboutView.vue'
 import FizzBuzzView from '@/views/FizzBuzzView.vue'
-import MVCPortfolioView from '@/views/MVCPortfolioView.vue'
 import ExerciseDiaryView from '@/views/ExerciseDiaryView.vue'
 import TicTacToeView from '@/views/TicTacToeView.vue'
 import CompanyMVC from '@/views/CompanyMVC.vue'
@@ -13,7 +12,6 @@ import TrainingSQL from '@/views/TrainingSQL.vue'
 import RecipeAPI from '@/views/RecipeAPI.vue'
 import BlogAPI from '@/views/BlogAPI.vue'
 import BlogAPI2 from '@/views/BlogAPI2.vue'
-import CV from '@/views/CV.vue'
 import Recipehdlb from '@/views/Recipehdlb.vue'
 import RestaurantVue from '@/views/RestaurantVue.vue'
 import BlogVue from '@/views/BlogVue.vue'
@@ -38,11 +36,6 @@ const routes = [
     path: '/fizzbuzz',
     name: 'fizzbuzz',
     component: FizzBuzzView
-  },
-  {
-    path: '/mvcport',
-    name: 'mvcportfolio',
-    component: MVCPortfolioView
   },
   {
     path: '/exercise',
@@ -93,11 +86,6 @@ const routes = [
     path: '/blogapi2',
     name: 'blog_api2',
     component: BlogAPI2
-  },
-  {
-    path: '/cv',
-    name: 'cv_port',
-    component: CV
   },
   {
     path: '/recipehdlb',

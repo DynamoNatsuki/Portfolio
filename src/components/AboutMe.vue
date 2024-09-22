@@ -38,7 +38,6 @@
             <li><router-link :to="'/blogvue'">Blog with Vue JS</router-link></li>
             <li><router-link :to="'/restaurant'">Restaurant page with Vue JS</router-link></li>
             <li><router-link :to="'/recipehdlb'">Recipe list with handlebars</router-link></li>
-            <li><router-link :to="'/cv'">CV portfolio with handlebars</router-link></li>
             <li><router-link :to="'/blogapi'">Blogplatform API</router-link></li>
             <li><router-link :to="'/recipeapi'">Recipe list API</router-link></li>
             <li><router-link :to="'/training'">Exercise diary with SQL</router-link></li>
@@ -48,10 +47,15 @@
             <li><router-link :to="'/company'">Company page in MVC</router-link></li>
             <li><router-link :to="'/tictac'">Tic Tac Toe</router-link></li>
             <li><router-link :to="'/exercise'">Exercise diary</router-link></li>
-            <li><router-link :to="'/mvcport'">Portfolio</router-link></li>
             <li><router-link :to="'/fizzbuzz'">FizzBuzz</router-link></li>
         </ul>
     </div>
+
+    <div class="contact">
+        <h3 Contact details></h3>
+        <p>LinkedIn</p>
+    </div>
+    
 
     <h4>References</h4>
     <p><a href="https://www.codeturkie.io/">CodeTurkie</a></p>

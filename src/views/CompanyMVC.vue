@@ -15,13 +15,15 @@
     
     <div class="code">
         <h2>Project code</h2>
-        <img src="" alt="">
+        <img src="/companyMVCcode.JPG" alt="Company MVC code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="" alt="">
+        <img src="/companyMVC.JPG" alt="Company page">
     </div>
+
+    <p><a href="https://github.com/DynamoNatsuki/CompanyApplication"><strong>GitHub Repo</strong></a></p>
 
     <router-link :to="'/'"><button><strong>Back to homepage</strong></button></router-link>
 </template>
@@ -36,5 +38,10 @@ img {
     width: fit-content;
     height: fit-content;
     padding: 20px;
+    border-radius: 10%;
+}
+li {
+    list-style-type: none;
+    padding: 5px;
 }
 </style>

@@ -8,13 +8,15 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="" alt="">
+        <img src="/recipeNodecode.JPG" alt="Recipe Node code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="" alt="">
+        <img src="/recipeNode.JPG" alt="Recipe with handlebars page">
     </div>
+
+    <p><a href="https://github.com/DynamoNatsuki/RecipeApplication-Node-JS"><strong>GitHub Repo</strong></a></p>
 
     <router-link :to="'/'"><button><strong>Back to homepage</strong></button></router-link>
 </template>
@@ -29,5 +31,6 @@ img {
     width: fit-content;
     height: fit-content;
     padding: 20px;
+    border-radius: 10%;
 }
 </style>

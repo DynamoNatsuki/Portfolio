@@ -38,4 +38,8 @@ img {
     height: fit-content;
     padding: 20px;
 }
+li {
+    list-style-type: none;
+    padding: 5px;
+}
 </style>

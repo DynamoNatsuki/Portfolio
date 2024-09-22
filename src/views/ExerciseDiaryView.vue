@@ -9,15 +9,15 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="" alt="">
+        <img src="/trainingMVCcode.JPG" alt="Training MVC code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="" alt="">
+        <img src="/trainingMVC.JPG" alt="Training and exercise page">
     </div>
 
-    <p><a href="https://github.com/DynamoNatsuki/BlogAPIVue"><strong>GitHub Repo</strong></a></p>
+    <p><a href="https://github.com/DynamoNatsuki/TrainingApplication"><strong>GitHub Repo</strong></a></p>
 
     <router-link :to="'/'"><button><strong>Back to homepage</strong></button></router-link>
 </template>
@@ -32,5 +32,6 @@ img {
     width: fit-content;
     height: fit-content;
     padding: 20px;
+    border-radius: 10%;
 }
 </style>

@@ -38,6 +38,7 @@ img {
     width: fit-content;
     height: fit-content;
     padding: 20px;
+    border-radius: 10%;
 }
 
 </style>

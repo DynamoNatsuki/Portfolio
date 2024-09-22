@@ -7,13 +7,15 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="" alt="">
+        <img src="/recipeAPIcode.JPG" alt="Recipe API code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="" alt="">
+        <img src="/recipeAPI.JPG" alt="Recipe API">
     </div>
+
+    <p><a href="https://github.com/DynamoNatsuki/RecipeApplicationAPI"><strong>GitHub Repo</strong></a></p>
 
     <router-link :to="'/'"><button><strong>Back to homepage</strong></button></router-link>
 </template>
@@ -28,5 +30,6 @@ img {
     width: fit-content;
     height: fit-content;
     padding: 20px;
+    border-radius: 10%;
 }
 </style>
