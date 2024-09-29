@@ -1,7 +1,7 @@
 <template>
-    <h1>Todo list with Vue JS</h1>
+    <h1 class="waterfall-animation">Todo list with Vue JS</h1>
 
-    <p>
+    <p class="waterfall-animation">
         I used Vue JS to build a todo list (to-do list). On the homepage, all tasks (Todos) are listed and the visitor are able to add tasks 
         with an input field and a button. Each task should have a title and can be marked as completed or deleted. Completed tasks are still displayed, 
         but there is a clear distinction between completed tasks and tasks (e.g. through different colored text). Deleted tasks disappear completely 
@@ -9,16 +9,17 @@
     </p>
     
     <div class="code">
-        <h2>Project code</h2>
-        <img src="todovuecode.JPG" alt="Todo Vue code">
+        <h2 class="waterfall-animation">Project code</h2>
+        <img src="todovuecode.JPG" alt="Todo Vue code" class="waterfall-animation">
     </div>
 
     <div>
-        <h2>Project final result</h2>
-        <img src="todovue.JPG" alt="Todo Vue">
+        <h2 class="waterfall-animation">Project final result</h2>
+        <img src="todovue.JPG" alt="Todo Vue" class="waterfall-animation">
     </div>
 
-    <p><a href="https://github.com/DynamoNatsuki/Todo_Vue">GitHub Repo</a></p>
+    <h2 class="waterfall-animation">GitHub</h2>
+    <p class="waterfall-animation"><a href="https://github.com/DynamoNatsuki/Todo_Vue">GitHub Repo</a></p>
 
     <router-link :to="'/'"><button><strong>Back to homepage</strong></button></router-link>
 </template>

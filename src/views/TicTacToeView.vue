@@ -1,23 +1,24 @@
 <template>
-    <h1>Tic tac toe</h1>
+    <h1 class="waterfall-animation">Tic tac toe</h1>
 
-    <p>
+    <p class="waterfall-animation">
         Tic Tac Toe (also known as 'three in a row' or 'hobo chess') is a game where two players take turns placing their marker (X or O) in a grid and compete to see 
         who can place three of their markers in a row first. I wrote a program that displays a 3x3 grid in the console and allows the user to place a marker in any free 
         square by typing in which row and column the marker should be placed.
     </p>
 
     <div class="code">
-        <h2>Project code</h2>
-        <img src="tictaccode.JPG" alt="tic tack toe code">
+        <h2 class="waterfall-animation">Project code</h2>
+        <img src="tictaccode.JPG" alt="tic tack toe code" class="waterfall-animation">
     </div>
 
     <div class="image">
-        <h2>Project final result</h2>
-        <img src="tictactoe.PNG" alt="Tic Tac Toe">
+        <h2 class="waterfall-animation">Project final result</h2>
+        <img src="tictactoe.PNG" alt="Tic Tac Toe" class="waterfall-animation">
     </div>
 
-    <p><a href="https://github.com/DynamoNatsuki/Tic-Tac-Toe"><strong>GitHub Repo</strong></a></p>
+    <h2 class="waterfall-animation">GitHub</h2>
+    <p class="waterfall-animation"><a href="https://github.com/DynamoNatsuki/Tic-Tac-Toe"><strong>GitHub Repo</strong></a></p>
 
     <router-link :to="'/'"><button><strong>Back to homepage</strong></button></router-link>
 </template>

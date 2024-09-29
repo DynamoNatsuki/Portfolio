@@ -1,22 +1,23 @@
 <template>
-    <h1>Recipe list with handlebars</h1>
+    <h1 class="waterfall-animation">Recipe list with handlebars</h1>
 
-    <p>
+    <p class="waterfall-animation">
         I created a web page with with Node JS, Express and Handlebars that can be used to create, view, edit, and delete recipes. 
         Each recipe has a title (max 100 characters) and instructions (up to 5000 characters).
     </p>
 
     <div class="code">
-        <h2>Project code</h2>
-        <img src="recipeNodecode.JPG" alt="Recipe Node code">
+        <h2 class="waterfall-animation">Project code</h2>
+        <img src="recipeNodecode.JPG" alt="Recipe Node code" class="waterfall-animation">
     </div>
 
     <div>
-        <h2>Project final result</h2>
-        <img src="recipeNode.JPG" alt="Recipe with handlebars page">
+        <h2 class="waterfall-animation">Project final result</h2>
+        <img src="recipeNode.JPG" alt="Recipe with handlebars page" class="waterfall-animation">
     </div>
 
-    <p><a href="https://github.com/DynamoNatsuki/RecipeApplication-Node-JS"><strong>GitHub Repo</strong></a></p>
+    <h2 class="waterfall-animation">GitHub</h2>
+    <p class="waterfall-animation"><a href="https://github.com/DynamoNatsuki/RecipeApplication-Node-JS"><strong>GitHub Repo</strong></a></p>
 
     <router-link :to="'/'"><button><strong>Back to homepage</strong></button></router-link>
 </template>

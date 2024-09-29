@@ -1,23 +1,24 @@
 <template>
-    <h1>Recipe list in MVC</h1>
+    <h1 class="waterfall-animation">Recipe list in MVC</h1>
 
-    <p>
+    <p class="waterfall-animation">
         I created a new web project in Visual Studio of type MVC (Model-View-Controller) and build a page with different recipes. 
         The recipes are displayed in a list with summary and image on the home page and each recipe is viewable on its own subpage by 
         the visitor clicking on the recipe in the list on the home page.
     </p>
 
     <div class="code">
-        <h2>Project code</h2>
-        <img src="recipeMVCcode.JPG" alt="Recipe MVC code">
+        <h2 class="waterfall-animation">Project code</h2>
+        <img src="recipeMVCcode.JPG" alt="Recipe MVC code" class="waterfall-animation">
     </div>
 
     <div>
-        <h2>Project final result</h2>
-        <img src="recipeMVC.JPG" alt="Recipe MVC page">
+        <h2 class="waterfall-animation">Project final result</h2>
+        <img src="recipeMVC.JPG" alt="Recipe MVC page" class="waterfall-animation">
     </div>
 
-    <p><a href="https://github.com/DynamoNatsuki/RecipeApplicationMVC"><strong>GitHub Repo</strong></a></p>
+    <h2 class="waterfall-animation">GitHub</h2>
+    <p class="waterfall-animation"><a href="https://github.com/DynamoNatsuki/RecipeApplicationMVC"><strong>GitHub Repo</strong></a></p>
 
     <router-link :to="'/'"><button><strong>Back to homepage</strong></button></router-link>
 </template>

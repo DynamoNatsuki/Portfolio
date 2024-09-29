@@ -1,24 +1,26 @@
 <template>
-    <h1>Todo frontend & backend</h1>
+    <h1 class="waterfall-animation">Todo frontend & backend</h1>
 
-    <p>
+    <p class="waterfall-animation">
         I created a new API to retrieve, create, edit and delete tasks in a todo list. Each task have a title, date, and be marked as done/not done. 
         I also built a front-end application with Vue JS that I connected to my API so that users can view, create, edit, and delete tasks through the application.
     </p>
 
     <div class="code">
-        <h2>Project code</h2>
-        <img src="todoAPIcode.JPG" alt="Todo API code">
+        <h2 class="waterfall-animation">Project code</h2>
+        <img src="todoAPIcode.JPG" alt="Todo API code" class="waterfall-animation">
     </div>
 
     <div>
-        <h2>Project final result</h2>
-        <img src="todoAPIvue.JPG" alt="Todo API Vue">
+        <h2 class="waterfall-animation">Project final result</h2>
+        <img src="todoAPIvue.JPG" alt="Todo API Vue" class="waterfall-animation">
     </div>
 
-    <div class="links">
-        <p><a href="https://github.com/DynamoNatsuki/ToDo-Vue-API">GitHub Repo for the Vue project</a></p>
-        <p><a href="https://github.com/DynamoNatsuki/Todo_API_application">GitHub Repo for connected API project</a></p>
+
+    <div>
+        <h2 class="waterfall-animation">GitHub</h2>
+        <p class="links waterfall-animation"><a href="https://github.com/DynamoNatsuki/ToDo-Vue-API">GitHub Repo for the Vue project</a></p>
+        <p class="links waterfall-animation"><a href="https://github.com/DynamoNatsuki/Todo_API_application">GitHub Repo for connected API project</a></p>
     </div>
 
 

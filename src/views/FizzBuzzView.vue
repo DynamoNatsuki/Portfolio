@@ -1,6 +1,6 @@
 <template>
-    <h1>FizzBuzz</h1>
-    <p>This project is a console program in C# that prints all numbers from 1 to 100 on a single line. 
+    <h1 class="waterfall-animation">FizzBuzz</h1>
+    <p class="waterfall-animation">This project is a console program in C# that prints all numbers from 1 to 100 on a single line. 
     If the number is divisible by 3, print “Fizz” instead of the number.
     For example, 3 and 6 should be replaced by Fizz.
     If the number is divisible by 5, print “Buzz” instead of the number. 
@@ -9,16 +9,17 @@
     For example, 15 and 30 should be replaced by FizzBuzz.</p>
 
     <div class="code">
-        <h2>Project code</h2>
-        <img src="fizzbuzzcode.JPG" alt="fizz buzz code">
+        <h2 class="waterfall-animation">Project code</h2>
+        <img src="fizzbuzzcode.JPG" alt="fizz buzz code" class="waterfall-animation">
     </div>
 
     <div>
-        <h2>Project final result</h2>
-        <img src="fizzbuzz.PNG" alt="fizz buzz">
+        <h2 class="waterfall-animation">Project final result</h2>
+        <img src="fizzbuzz.PNG" alt="fizz buzz" class="waterfall-animation">
     </div>
     
-    <p><a href="https://github.com/DynamoNatsuki/FizzBuzz"><strong>GitHub Repo</strong></a></p>
+    <h2 class="waterfall-animation">GitHub</h2>
+    <p class="waterfall-animation"><a href="https://github.com/DynamoNatsuki/FizzBuzz"><strong>GitHub Repo</strong></a></p>
 
     <router-link :to="'/'"><button><strong>Back to homepage</strong></button></router-link>
 </template>

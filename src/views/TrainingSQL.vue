@@ -1,7 +1,7 @@
 <template>
-    <h1>Training diary with SQL</h1>
+    <h1 class="waterfall-animation">Training diary with SQL</h1>
 
-    <p>
+    <p class="waterfall-animation">
         I created a web project in Visual Studio of type MVC (Model-View-Controller) and built a page where visitors can create and view training data. 
         On the home page, saved training sessions are displayed. A workout contains exercise (max 50 characters), sets (number between 1-100), 
         reps (number between 1-100) and weight (number between 1-500). Each exercise are clickable to edit or delete. On a separate subpage, a form 
@@ -9,16 +9,17 @@
     </p>
 
     <div class="code">
-        <h2>Project code</h2>
-        <img src="trainingsqlcode.JPG" alt="Training SQL code">
+        <h2 class="waterfall-animation">Project code</h2>
+        <img src="trainingsqlcode.JPG" alt="Training SQL code" class="waterfall-animation">
     </div>
 
     <div>
-        <h2>Project final result</h2>
-        <img src="trainingsql.JPG" alt="Training SQL">
+        <h2 class="waterfall-animation">Project final result</h2>
+        <img src="trainingsql.JPG" alt="Training SQL" class="waterfall-animation">
     </div>
 
-    <p><a href="https://github.com/DynamoNatsuki/TrainingApplicationSQL">GitHub Repo</a></p>
+    <h2 class="waterfall-animation">GitHub</h2>
+    <p class="waterfall-animation"><a href="https://github.com/DynamoNatsuki/TrainingApplicationSQL">GitHub Repo</a></p>
 
     <router-link :to="'/'"><button><strong>Back to homepage</strong></button></router-link>
 </template>

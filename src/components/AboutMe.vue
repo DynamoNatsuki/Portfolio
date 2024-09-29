@@ -1,21 +1,31 @@
 <template>
-    <h2>Pethra Axelsson</h2>
-
+    <h1>Portfolio</h1>
+    <h2><em>Pethra Axelsson</em></h2>
     <div class="aboutme">
-        <img src="egenbild.jpg" alt="egen bild">
-        <div class="aboutmetext">
-            <h3>About me</h3>
-            <p>I am a full-stack developer based in Gothenburg, Sweden. I like being in the stable, training and competing with my horse, playing the drums, playing rpgs and board games with my friends, watching anime, working with 
+        <img src="egenbild.jpg" alt="egen bild" class="waterfall-animation person">
+        <div class="aboutmetext waterfall-animation">
+            <h3 class="waterfall-animation">About me</h3>
+            <p class="waterfall-animation">I am a full-stack developer based in Gothenburg, Sweden. I like being in the stable, training and competing with my horse, playing the drums, playing rpgs and board games with my friends, watching anime, working with 
             improving working processes, automation, and coding.</p>
         </div>
     </div>
 
+    <div class="contact">
+        <h2 class="waterfall-animation">Contact details</h2>
+        <a href="https://se.linkedin.com/in/pethra-axelsson-3735b028/sv" target="_blank" rel="noopener noreferrer">
+            <img src="Linkedin.png" alt="LinkedIn Logo" class="waterfall-animation linked-image">
+        </a>
+        <a href="mailto:pethra_1@hotmail.com" target="_blank" rel="noopener noreferrer">
+            <img src="outlook.png" alt="Outlook Logo" class="waterfall-animation linked-image">
+        </a>
+    </div>
+
     <div class="skills">
-        <h3>Skills</h3>
-        <p><em>I have worked with the following programs and coding languages:</em></p>
+        <h3 class="waterfall-animation">Skills</h3>
+        <p class="waterfall-animation"><em>I have worked with the following programs and coding languages:</em></p>
         
         <div class="skilllist">
-            <ul>
+            <ul class="waterfall-animation">
                 <li>MVC</li>
                 <li>SQL Server</li>
                 <li>API</li>
@@ -34,9 +44,9 @@
     </div>
     
     <div class="projects">
-        <h3>Projects</h3>
-        <p><em>Here is a list of the projects I have done so far.</em></p>
-        <ul>
+        <h3 class="waterfall-animation">Projects</h3>
+        <p class="waterfall-animation"><em>Here is a list of the projects I have done so far.</em></p>
+        <ul class="waterfall-animation">
             <li><router-link :to="'/todo'">Todo frontend & backend</router-link></li>
             <li><router-link :to="'/blogview'">Blog frontend & backend</router-link></li>
             <li><router-link :to="'/blogapi2'">API for blog</router-link></li>
@@ -59,33 +69,25 @@
         </ul>
     </div>
 
-    <div class="contact">
-        <h1>Contact details</h1>
-        <p><a href="https://se.linkedin.com/in/pethra-axelsson-3735b028/sv">LinkedIn</a></p>
-    </div>
+
 </template>
 
 <style scoped>
 .aboutme {
-    margin: 10px;
     text-align: center;
-    display: flex;
+    display: inline-flex;
     flex-direction: row;
-    padding-left: 300px;
-    padding-right: 300px;
 }
 
 .aboutmetext {
-    margin: 10px;
+    width: 400px;
 }
 
 .skills {
-    margin: 10px;
     text-align: center;
 }
 
 .projects {
-    margin: 10px;
     text-align: center;
 }
 
@@ -94,7 +96,7 @@ li {
     padding: 5px;
 }
 
-img {
+.person {
     width: 200px;
     height: 300px;
     padding: 20px;
@@ -103,5 +105,17 @@ img {
 
 .contact{
     padding: 50px
+}
+
+.linked-image {
+    width: 50px; /* Adjust the size of the image */
+    height: auto;
+    padding: 20px;
+    cursor: pointer; /* Show pointer on hover */
+    transition: transform 0.3s ease; /* Add hover effect */
+}
+
+.linked-image:hover {
+    transform: scale(1.05); /* Slightly zoom in the image on hover */
 }
 </style>
