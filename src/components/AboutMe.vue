@@ -2,7 +2,7 @@
     <h2>Pethra Axelsson</h2>
 
     <div class="aboutme">
-        <img src="/egenbild.jpg" alt="egen bild">
+        <img src="egenbild.jpg" alt="egen bild">
         <div class="aboutmetext">
             <h3>About me</h3>
             <p>I am a full-stack developer based in Gothenburg, Sweden. I like being in the stable, training and competing with my horse, playing the drums, playing rpgs and board games with my friends, watching anime, working with 
