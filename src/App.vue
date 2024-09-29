@@ -3,6 +3,7 @@
   <nav class="sidebar">
     <ul>
       <li><router-link to="/">Home</router-link></li>
+      <p class="sidebar-p"><strong>Projects</strong></p>
       <li><router-link :to="'/todo'">Todo frontend & backend</router-link></li>
       <li><router-link :to="'/blogview'">Blog frontend & backend</router-link></li>
       <li><router-link :to="'/blogapi2'">API for blog</router-link></li>
@@ -89,6 +90,11 @@ html, body {
 
 .sidebar ul li a:hover {
   background-color: #01663f;
+}
+
+.sidebar-p {
+  color: rgb(196, 196, 130);
+  font-size: larger;
 }
 
 /* Content Styling */
