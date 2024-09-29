@@ -1,8 +1,8 @@
 <template>
-  <nav>
+<!--<nav>
     <router-link to="/"><strong></strong></router-link>
-    <!-- <router-link to="/about">About</router-link> -->
-  </nav>
+    <router-link to="/about">About</router-link>
+  </nav>-->
   <router-view/>
 </template>
 
