@@ -45,28 +45,7 @@
     
     <div class="projects">
         <h3 class="waterfall-animation">Projects</h3>
-        <p class="waterfall-animation"><em>Here is a list of the projects I have done so far.</em></p>
-        <ul class="waterfall-animation">
-            <li><router-link :to="'/todo'">Todo frontend & backend</router-link></li>
-            <li><router-link :to="'/blogview'">Blog frontend & backend</router-link></li>
-            <li><router-link :to="'/blogapi2'">API for blog</router-link></li>
-            <li><router-link :to="'/loans'">CRUD for loans</router-link></li>
-            <li><router-link :to="'/webshop'">Webshop with Vue JS</router-link></li>
-            <li><router-link :to="'/todovue'">Todo List with Vue JS</router-link></li>
-            <li><router-link :to="'/blogvue'">Blog with Vue JS</router-link></li>
-            <li><router-link :to="'/restaurant'">Restaurant page with Vue JS</router-link></li>
-            <li><router-link :to="'/recipehdlb'">Recipe list with handlebars</router-link></li>
-            <li><router-link :to="'/blogapi'">Blogplatform API</router-link></li>
-            <li><router-link :to="'/recipeapi'">Recipe list API</router-link></li>
-            <li><router-link :to="'/training'">Exercise diary with SQL</router-link></li>
-            <li><router-link :to="'/blogsql'">Blogplatform with SQL</router-link></li>
-            <li><router-link :to="'/recipesql'">Recipe list with SQL</router-link></li>
-            <li><router-link :to="'/recipemvc'">Recipe list in MVC</router-link></li>
-            <li><router-link :to="'/company'">Company page in MVC</router-link></li>
-            <li><router-link :to="'/tictac'">Tic Tac Toe</router-link></li>
-            <li><router-link :to="'/exercise'">Exercise diary</router-link></li>
-            <li><router-link :to="'/fizzbuzz'">FizzBuzz</router-link></li>
-        </ul>
+        <p class="waterfall-animation">All projects are available in the menu to the left.</p>
     </div>
 
 
