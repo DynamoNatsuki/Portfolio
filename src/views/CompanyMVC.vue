@@ -14,12 +14,12 @@
     
     <div class="code">
         <h2>Project code</h2>
-        <img src="/companyMVCcode.JPG" alt="Company MVC code">
+        <img src="companyMVCcode.JPG" alt="Company MVC code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/companyMVC.JPG" alt="Company page">
+        <img src="companyMVC.JPG" alt="Company page">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/CompanyApplication"><strong>GitHub Repo</strong></a></p>

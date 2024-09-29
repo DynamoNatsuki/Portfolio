@@ -14,12 +14,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/loansCRUDcode.JPG" alt="CRUD loans code">
+        <img src="loansCRUDcode.JPG" alt="CRUD loans code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/loansCRUD.JPG" alt="CRUD for loans page">
+        <img src="loansCRUD.JPG" alt="CRUD for loans page">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/LibraryAPI"><strong>GitHub Repo</strong></a></p>

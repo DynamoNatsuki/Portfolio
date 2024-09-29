@@ -9,12 +9,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/tictaccode.JPG" alt="tic tack toe code">
+        <img src="tictaccode.JPG" alt="tic tack toe code">
     </div>
 
     <div class="image">
         <h2>Project final result</h2>
-        <img src="/tictactoe.PNG" alt="Tic Tac Toe">
+        <img src="tictactoe.PNG" alt="Tic Tac Toe">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/Tic-Tac-Toe"><strong>GitHub Repo</strong></a></p>

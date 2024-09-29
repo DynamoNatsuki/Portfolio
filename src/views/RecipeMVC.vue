@@ -9,12 +9,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/recipeMVCcode.JPG" alt="Recipe MVC code">
+        <img src="recipeMVCcode.JPG" alt="Recipe MVC code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/recipeMVC.JPG" alt="Recipe MVC page">
+        <img src="recipeMVC.JPG" alt="Recipe MVC page">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/RecipeApplicationMVC"><strong>GitHub Repo</strong></a></p>

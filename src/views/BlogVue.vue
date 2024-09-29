@@ -8,12 +8,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/blogVuecode.JPG" alt="Blog Vue code">
+        <img src="blogVuecode.JPG" alt="Blog Vue code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/blogVue.JPG" alt="Blog Vue page">
+        <img src="blogVue.JPG" alt="Blog Vue page">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/Blog_Vue"><strong>GitHub Repo</strong></a></p>

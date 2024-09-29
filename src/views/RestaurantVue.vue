@@ -12,12 +12,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/restaurantVuecode.JPG" alt="Restaurant Vue code">
+        <img src="restaurantVuecode.JPG" alt="Restaurant Vue code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/restaurantVue.JPG" alt="Restaurant page">
+        <img src="restaurantVue.JPG" alt="Restaurant page">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/Restaurant_Vue"><strong>GitHub Repo</strong></a></p>

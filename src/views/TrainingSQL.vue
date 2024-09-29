@@ -10,12 +10,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/trainingsqlcode.JPG" alt="Training SQL code">
+        <img src="trainingsqlcode.JPG" alt="Training SQL code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/trainingsql.JPG" alt="Training SQL">
+        <img src="trainingsql.JPG" alt="Training SQL">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/TrainingApplicationSQL">GitHub Repo</a></p>

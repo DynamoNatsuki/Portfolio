@@ -8,12 +8,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/blogMVCcode.JPG" alt="Blog MVC code">
+        <img src="blogMVCcode.JPG" alt="Blog MVC code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/blogMVC.JPG" alt="Blog MVC">
+        <img src="blogMVC.JPG" alt="Blog MVC">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/BlogApplicationAPI"><strong>GitHub Repo</strong></a></p>

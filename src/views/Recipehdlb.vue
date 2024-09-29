@@ -8,12 +8,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/recipeNodecode.JPG" alt="Recipe Node code">
+        <img src="recipeNodecode.JPG" alt="Recipe Node code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/recipeNode.JPG" alt="Recipe with handlebars page">
+        <img src="recipeNode.JPG" alt="Recipe with handlebars page">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/RecipeApplication-Node-JS"><strong>GitHub Repo</strong></a></p>

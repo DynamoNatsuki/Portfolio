@@ -7,12 +7,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/recipeAPIcode.JPG" alt="Recipe API code">
+        <img src="recipeAPIcode.JPG" alt="Recipe API code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/recipeAPI.JPG" alt="Recipe API">
+        <img src="recipeAPI.JPG" alt="Recipe API">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/RecipeApplicationAPI"><strong>GitHub Repo</strong></a></p>

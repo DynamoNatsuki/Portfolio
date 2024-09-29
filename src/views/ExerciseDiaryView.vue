@@ -9,12 +9,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/trainingMVCcode.JPG" alt="Training MVC code">
+        <img src="trainingMVCcode.JPG" alt="Training MVC code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/trainingMVC.JPG" alt="Training and exercise page">
+        <img src="trainingMVC.JPG" alt="Training and exercise page">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/TrainingApplication"><strong>GitHub Repo</strong></a></p>

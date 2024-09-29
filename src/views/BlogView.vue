@@ -8,12 +8,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/blogAPIvuecode.JPG" alt="Blog API Vue code">
+        <img src="blogAPIvuecode.JPG" alt="Blog API Vue code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/blogAPIvue.JPG" alt="Blog API Vue page">
+        <img src="blogAPIvue.JPG" alt="Blog API Vue page">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/BlogAPIVue"><strong>GitHub Repo for the Vue project</strong></a></p>

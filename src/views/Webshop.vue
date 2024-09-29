@@ -10,12 +10,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/webshopcode.JPG" alt="Webshop code">
+        <img src="webshopcode.JPG" alt="Webshop code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/webshop.JPG" alt="Webshop">
+        <img src="webshop.JPG" alt="Webshop">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/Webshop_Vue">GitHub Repo</a></p>

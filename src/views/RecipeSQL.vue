@@ -9,12 +9,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/recipeSQLcode.JPG" alt="Recipe SQL code">
+        <img src="recipeSQLcode.JPG" alt="Recipe SQL code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/recipeSQL.JPG" alt="Recipe page">
+        <img src="recipeSQL.JPG" alt="Recipe page">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/RecipeApplicationSQL"><strong>GitHub Repo</strong></a></p>

@@ -10,12 +10,12 @@
     
     <div class="code">
         <h2>Project code</h2>
-        <img src="/todovuecode.JPG" alt="Todo Vue code">
+        <img src="todovuecode.JPG" alt="Todo Vue code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/todovue.JPG" alt="Todo Vue">
+        <img src="todovue.JPG" alt="Todo Vue">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/Todo_Vue">GitHub Repo</a></p>

@@ -10,12 +10,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/fizzbuzzcode.JPG" alt="fizz buzz code">
+        <img src="fizzbuzzcode.JPG" alt="fizz buzz code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/fizzbuzz.PNG" alt="fizz buzz">
+        <img src="fizzbuzz.PNG" alt="fizz buzz">
     </div>
     
     <p><a href="https://github.com/DynamoNatsuki/FizzBuzz"><strong>GitHub Repo</strong></a></p>

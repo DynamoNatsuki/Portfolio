@@ -8,12 +8,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/todoAPIcode.JPG" alt="Todo API code">
+        <img src="todoAPIcode.JPG" alt="Todo API code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/todoAPIvue.JPG" alt="Todo API Vue">
+        <img src="todoAPIvue.JPG" alt="Todo API Vue">
     </div>
 
     <div class="links">

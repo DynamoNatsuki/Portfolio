@@ -10,12 +10,12 @@
 
     <div class="code">
         <h2>Project code</h2>
-        <img src="/blogSQLcode.JPG" alt="Blog SQL code">
+        <img src="blogSQLcode.JPG" alt="Blog SQL code">
     </div>
 
     <div>
         <h2>Project final result</h2>
-        <img src="/blogSQL.JPG" alt="Blog SQL">
+        <img src="blogSQL.JPG" alt="Blog SQL">
     </div>
 
     <p><a href="https://github.com/DynamoNatsuki/BlogApplicationSQL"><strong>GitHub Repo</strong></a></p>
