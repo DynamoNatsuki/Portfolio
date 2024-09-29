@@ -16,7 +16,7 @@ html, body {
 }
 
 #app {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;

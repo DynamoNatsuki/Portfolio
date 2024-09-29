@@ -3,7 +3,7 @@
 
     <div class="aboutme">
         <img src="/egenbild.jpg" alt="egen bild">
-        <div>
+        <div class="aboutmetext">
             <h3>About me</h3>
             <p>I am a full-stack developer based in Gothenburg, Sweden. I like being in the stable, training and competing with my horse, playing the drums, playing rpgs and board games with my friends, watching anime, working with 
             improving working processes, automation, and coding.</p>
@@ -73,6 +73,10 @@
     flex-direction: row;
     padding-left: 300px;
     padding-right: 300px;
+}
+
+.aboutmetext {
+    margin: 10px;
 }
 
 .skills {
